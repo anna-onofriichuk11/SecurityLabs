@@ -1,0 +1,10 @@
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.csproj.AssemblyReference.cache
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.AssemblyInfoInputs.cache
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.AssemblyInfo.cs
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\bin\Debug\netcoreapp3.1\GeneticAlgo.deps.json
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\bin\Debug\netcoreapp3.1\GeneticAlgo.dll
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\bin\Debug\netcoreapp3.1\GeneticAlgo.pdb
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.dll
+C:\Users\Anna_Onofriichuk\SecurityLabs\lab1\lab1\GeneticAlgo\obj\Debug\netcoreapp3.1\GeneticAlgo.pdb

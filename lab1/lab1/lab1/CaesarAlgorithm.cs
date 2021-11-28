@@ -36,6 +36,7 @@ namespace lab1
                 }
             }
 
+
             return r[key];
         }
     }

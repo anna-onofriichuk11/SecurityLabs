@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "TfM4o6af9MbKsw7NvJlOAp/P+IxfbCyNQ8ujxIXf5oGW/fN6k4o3mytbpFZ6Y2SGNU+YVKkbfGAXP5E8EmNcaw==",
+  "dgSpecHash": "XHxP/nJjC0kjqovjdCk7fnOUTW2yvLJWjXNtOuRXzMdpPeqt62bSmXzFCYlEf3OBwv0SVs+Je5UeJplltevhNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anna_Onofriichuk\\source\\repos\\lab1\\lab1\\lab1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Anna_Onofriichuk\\SecurityLabs\\lab1\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Anna_Onofriichuk\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
